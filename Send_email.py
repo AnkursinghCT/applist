@@ -1,7 +1,7 @@
 #import smtplib
 #import ssl
 
-import smtplib,ssl
+import smtplib, ssl
 
 host = "smtp.gmail.com"
 port = 465
