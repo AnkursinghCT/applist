@@ -10,8 +10,10 @@ username = "ankursingh20201997@gmail.com"
 password = "rrhl zuem wcwt etka"
 
 
+
 receiver = "ankursingh20201997@gmail.com"
 context = ssl.create_default_context()
+
 
 message = """
 hi!
